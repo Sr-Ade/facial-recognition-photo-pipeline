@@ -1,0 +1,20 @@
+# Credenciais -- NUNCA commitar
+credentials.json
+token.json
+.env
+*.pem
+
+# Dados reais (fotos, CSVs de saida com nomes/IDs reais de pessoas)
+*.csv
+*.html
+data/
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
